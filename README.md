@@ -11,6 +11,7 @@ A dictation tool for your own vocabulary list
 - The tool uses the library of 'gTTs'. If your environment cannot access to it, you can change to other libraries in [utils.py](https://github.com/GrayNiwako/Dictation-Tool/blob/master/code/utils.py)
 
 
+
 # 中文版说明(Chinese ver)
 
 ## 使用说明
