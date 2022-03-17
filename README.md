@@ -8,7 +8,7 @@ A dictation tool for your own vocabulary list
 ## Description
 - There are two [sample](https://github.com/GrayNiwako/Dictation-Tool/tree/master/sample) vocabulary files.
 - The tool supports voices in Chinese, English and Japanese, but the interface is in Chinese.
-
+- A [demo](https://youtu.be/6JRLo3Lteg0) video for this tool with Japanese subtitles. [日本語字幕付きデモ動画](https://youtu.be/6JRLo3Lteg0)
 
 
 # 中文版说明(Chinese Explanation)
